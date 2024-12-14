@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #include<stdio.h>
 intmain()
@@ -23,3 +24,14 @@ main()
 printf("hello");
 }
 >>>>>>> d1
+=======
+#include<stdio.h>
+int main()
+{
+int a,b,sum;
+sum=a+b;
+printf("addition of two numbers is ");
+printf(sum);
+}
+
+>>>>>>> e1
