@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #include<stdio.h>
 intmain()
@@ -79,3 +80,14 @@ int main() {
 
 
 >>>>>>> f1
+=======
+#include<stdio.h>
+int main()
+{
+ int a=10,b=20,c;
+ c=a*b;
+ printf("Result is:"+c);
+}
+
+
+>>>>>>> b1
